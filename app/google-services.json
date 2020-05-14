@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125503375223",
+    "firebase_url": "https://hunstagram-32e45.firebaseio.com",
+    "project_id": "hunstagram-32e45",
+    "storage_bucket": "hunstagram-32e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125503375223:android:d8727cb867ae32930b4372",
+        "android_client_info": {
+          "package_name": "com.example.hunstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125503375223-eqsh05bo956vcf0aat9iboi39635244k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hunstagram",
+            "certificate_hash": "06fa59b6c6b2eca149e0ea0829cb43775534ba22"
+          }
+        },
+        {
+          "client_id": "125503375223-r3te08qog0d704cnegr83jqe59fm598d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDKymKbwQ79Kf9Iyc_k6wl3bJ2CeWH4SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125503375223-r3te08qog0d704cnegr83jqe59fm598d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
